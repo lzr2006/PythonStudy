@@ -1,0 +1,10 @@
+#Chapter3/Example18.py
+x1=int(input("请输入第一个数"))
+x2=int(input("请输入第二个数"))
+y=x1+x2
+print("结果是",y)
+#改为小数
+x1=float(input("请输入第一个数"))
+x2=float(input("请输入第二个数"))
+y=x1+x2
+print("结果是",y)
